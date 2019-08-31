@@ -1,0 +1,1 @@
+Will only reconize at first or will pull the diferent commit's too?
